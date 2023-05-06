@@ -33,3 +33,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# hardhat
+/typechain-types
+/artifacts
+/cache
+
+# Personal Organizations
